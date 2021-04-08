@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help with some of my projects.
 - 💬 Ask me about Python.
-- 📫 How to reach me: Email - peerasu.w@ku.th.
+- 📫 How to reach me: Email - peerasu.w@ku.th , [Instagram](https://www.instagram.com/peerasu_lala/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding is hard for me, but I'm tying my best to achieved the most from coding.
