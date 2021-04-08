@@ -8,3 +8,6 @@
 - 📫 How to reach me: Email - peerasu.w@ku.th , [Instagram - @peerasu_lala](https://www.instagram.com/peerasu_lala/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Coding is hard for me, but I'm tying my best to achieved the most from coding.
+
+
+https://github-readme-stats.vercel.app/api?username=BellBoyZz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
