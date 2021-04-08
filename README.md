@@ -1,4 +1,4 @@
-### Hi there, I'm Peerasu Watanasirang 👋
+### Hi there, I'm Peerasu Watanasirang. 👋
 
 - 🔭 I’m currently working on N/A.
 - 🌱 I’m currently learning Python, C.
